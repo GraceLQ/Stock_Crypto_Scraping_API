@@ -8,7 +8,7 @@ This project demonstrates how I scraped, processed, and visualized Bitcoin price
 - Used **Pandas** for data manipulation, such as aggregating daily price metrics, and converting time-series data.
 - Created interactive candlestick charts using **Plotly**.
 
-### This is a screenshot of the interactive candlestick chart.
+**This is a screenshot of the interactive candlestick chart.**
 ![alt_text](bitcoin_price_plotly.png)
 
 
